@@ -1,0 +1,1 @@
+So far I have created a repository and cloned it to my local repository. I have created this README in order to explain that I will be deconstructing and then reconstructing a google-homapge example
